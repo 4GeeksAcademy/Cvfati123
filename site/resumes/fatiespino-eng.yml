@@ -76,7 +76,7 @@ education:
       # optional
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       time: 2026
-      details: |
+      details: 
        Learning programming basics.
 
 # Your previous job experiences or volunteer
@@ -86,7 +86,7 @@ experiences:
       company: 
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
+      details: 
         
 
     - role: 
@@ -94,7 +94,7 @@ experiences:
       company: 
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
+      details: 
         
 
     - role: 
@@ -102,11 +102,11 @@ experiences:
       company: 
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
+      details: 
         
 # Your project portfolio
 projects:
-    intro: >
+    intro: 
       
     assignments:
       - title: 
