@@ -43,10 +43,10 @@ basic_info:
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
+        level: Intermediate
 
       - idiom: French
-        level: Professional
+        level: Intermediate
 
       - idiom: Spanish
         level: Professional
