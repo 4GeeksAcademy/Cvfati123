@@ -20,7 +20,7 @@ basic_info:
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
-      programming student learning web Development.
+      Programming student learning web development.
 
     
 
@@ -159,7 +159,7 @@ projects:
         # optional
         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
         link: "#hook"
-        tagline: Practice project learning HTML and CSS
+        tagline: "Practice project learning HTML and CSS"
 
       - title: DevStudio
         # optional
